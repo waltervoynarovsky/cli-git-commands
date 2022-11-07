@@ -7,4 +7,4 @@
 | `git push origin name-of-branch`                     | Pushes all the changes made in local to remote repository                                                      |
 | `git fetch `                                         | Collects the changes from remote repository and copies them to local but doesn't affect our workspace          |
 | `git pull origin name-of-branch`                     | Collects the changes from remote repository and immediately updates the local repository to match that content |
-| 'git reset --hard  HEAD@{index}'                     | Reverts comitted changes (index will be given to you when you type 'reflog'
+| `git reset --hard  HEAD@{index}`                    | Reverts comitted changes (index will be given to you when you type 'reflog'
